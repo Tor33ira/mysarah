@@ -1,0 +1,89 @@
+
+html{
+    background-image:url(pc4.jpg) ;
+}
+#pap{
+    color: blue;
+    background-color: orange;
+}
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&display=swap');
+h1{
+    font-family: 'Babylonica', cursive;
+    color: blueviolet;
+    text-decoration-line: underline;
+    text-align: center;
+    background-color: black;
+}
+  @import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+h2 {
+    font-family:'Playball', cursive;
+    color: orange;
+    font-size: 2.5em;
+}
+p {
+    text-decoration-style: double;
+    color:brown;
+    text-align: justify;
+    font-size: 1.5em ;
+}  
+#bub {
+    color: pink;
+}
+#bs {
+    font-weight: bolder;
+    color: red;
+}
+
+h3{
+    font-family: ;
+    color: greenyellow;
+}
+ul {
+    color: orange;
+}
+#boba {
+    color: gray;
+} 
+#bobu {
+    color: gray;
+}  
+th{
+    color: blue;
+}
+#d1 {
+    color: aqua;
+}
+#d2 {
+    color: aqua;
+}
+#d3 {
+    color: aqua;
+}
+#d4 {
+    color: aqua;
+}
+#d5 {
+    color: aqua;
+}
+#d6 {
+    color: aqua;
+}
+#d7 {
+    color: aqua;
+}
+#p2 {
+    max-width: 100%;
+}
+#p1 {
+    height: 500px;
+    width: 500px;
+    float: left;
+}
+#p3 {
+    height: 500px;
+    width: 500px;
+    float: right;
+}
+#m1 {
+    text-decoration: line-through;
+}
